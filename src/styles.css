@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .page {
+    border: 1px solid #6654f1;
+    max-width: 700px;
+    margin: 0 auto;
+    background: linear-gradient(-225deg, rgb(85, 212, 255) 35%, gold 70%);
+    padding: 30px 30px 30px 30px;
+    border-radius: 3px;
+  }
+  
+  .search {
+    margin: 20px;
+    padding: 15px 50px;
+    border-radius: 5px;
+  }
+  
+  .botton {
+    margin: 20px;
+    padding: 15px 25px;
+    color: gold;
+    background: lightblue;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin: 20px;
+    padding: 15px 25px;
+    color: gold;
+    background: blue;
+    border-radius: 5px;
+    position: relative;
+    top: -88px;
+    left: 450px;
+  }
+  
+  h1 {
+    font-size: 60px;
+    position: relative;
+    top: -70px;
+  }
+  
+  h6 {
+    font-size: 23px;
+    position: relative;
+    top: -110px;
+  }
+  
+  .text-1 {
+    margin: -30px 0px 30px 0px;
+    position: relative;
+    top: -120px;
+    left: 400px;
+  }
+  
+  h3 {
+    position: relative;
+    top: -170px;
+    left: 40px;
+  }
+  
+  span {
+    font-size: 70px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .text-2 {
+    position: relative;
+    top: -250px;
+    left: 400px;
+  }
+  
+  .text-3 {
+    position: relative;
+    top: -265px;
+    left: 400px;
+  }
+  
+  p {
+    text-align: center;
+  }
